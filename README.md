@@ -6,7 +6,11 @@ In this paper, We address a motion planning and control problem for a family of 
 ## Video
 Please check the experiments [video](https://youtu.be/s7T0bHtP5qE). It highlights some key points in the paper.
 
-[<img src="./experiment.jpg" width="960">](https://youtu.be/s7T0bHtP5qE)
+[[<img src="./experiment.jpg" width="960">](https://youtu.be/s7T0bHtP5qE)]:
+
+
+https://github.com/abkocak/Real-Time-Motion-Planning-and-Control-for-Dynamic-STL-Tasks/assets/80661909/30f31c51-ff33-49ae-afdb-52da7b4bfd42
+
 
 #### The code features:
 <ul type="square">
