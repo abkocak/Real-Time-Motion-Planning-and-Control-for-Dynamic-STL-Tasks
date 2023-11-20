@@ -4,7 +4,7 @@ The code for regenerating the scenarios in the paper "Sequential Control Barrier
 In this paper, we address a motion planning and control problem for mobile  robots to satisfy rich and time-varying tasks expressed as Signal Temporal Logic specifications. The specifications may include tasks with nested temporal operators or time-conflicting requirements (e.g., achieving periodic tasks or tasks defined within the same time interval). Moreover, the tasks can be defined in locations changing with time (i.e., dynamic targets), and their future motions are not known a priori. This unpredictability requires an online control approach which motivates us to investigate the use of control barrier functions (CBFs). The proposed CBFs take into account the actuation limits of the robots and a feasible sequence of STL tasks. They define time-varying feasible sets of states the system must always stay inside. We show the feasible sequence generation process that even includes the decomposition of periodic tasks and alternative scenarios due to disjunction operators. The sequence is used to define CBFs, ensuring STL satisfaction. We also show some theoretical results on the correctness of the proposed method. We illustrate the benefits of the proposed method and analyze its performance via simulations and experiments with aerial robots.
 
 ## Video
-Please check the experiments [video](https://youtu.be/whg_X1dy_es). It highlights some key points in the paper.
+Please check the experiments [video](https://youtu.be/iItu3Ek5ie8). It highlights some key points in the paper.
 
 https://github.com/abkocak/Real-Time-Motion-Planning-and-Control-for-Dynamic-STL-Tasks/assets/80661909/7d08dbca-eac9-4a5f-ab2f-e351aec6b524
 
